@@ -1,6 +1,6 @@
-# 📱 Teal Star - Testes BDD de Contatos de Emergência
+# 📱 Guardia - Testes BDD de Contatos de Emergência
 
-Este projeto implementa testes de aceitação (BDD) utilizando o [Behave](https://behave.readthedocs.io/) para validar o comportamento do cadastro, edição, remoção e definição de canais de envio dos contatos de emergência da aplicação **Teal Star**.
+Este projeto implementa testes de aceitação (BDD) utilizando o [Behave](https://behave.readthedocs.io/) para validar o comportamento do cadastro, edição, remoção e definição de canais de envio dos contatos de emergência da aplicação **Guardia**.
 
 ---
 
@@ -22,8 +22,8 @@ Este projeto implementa testes de aceitação (BDD) utilizando o [Behave](https:
 
 ### 1. Instale as dependências:
 
-```bash
 pip install behave
 
-### 2.  Execute todos os testes:
+### 2. Execute todos os testes:
+
 behave
